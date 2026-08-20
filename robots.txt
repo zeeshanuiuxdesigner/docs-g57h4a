@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-j7yxp4.juragan89site.store/sitemap.xml
